@@ -1,0 +1,45 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shell\openbashhere]
+@="Open Bash here"
+"Icon"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,\
+  00,45,00,25,00,5c,00,41,00,70,00,70,00,44,00,61,00,74,00,61,00,5c,00,4c,00,\
+  6f,00,63,00,61,00,6c,00,5c,00,6c,00,78,00,73,00,73,00,5c,00,62,00,61,00,73,\
+  00,68,00,2e,00,69,00,63,00,6f,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\shell\openbashhere\command]
+@="cmd.exe /c start /d \"%V\" bash.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shell\openbashhere]
+@="Open Bash here"
+"Icon"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,\
+  00,45,00,25,00,5c,00,41,00,70,00,70,00,44,00,61,00,74,00,61,00,5c,00,4c,00,\
+  6f,00,63,00,61,00,6c,00,5c,00,6c,00,78,00,73,00,73,00,5c,00,62,00,61,00,73,\
+  00,68,00,2e,00,69,00,63,00,6f,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Drive\shell\openbashhere\command]
+@="cmd.exe /c start /d \"%V\" bash.exe"
+
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\openbashhere]
+@="Open Bash here"
+"Icon"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,\
+  00,45,00,25,00,5c,00,41,00,70,00,70,00,44,00,61,00,74,00,61,00,5c,00,4c,00,\
+  6f,00,63,00,61,00,6c,00,5c,00,6c,00,78,00,73,00,73,00,5c,00,62,00,61,00,73,\
+  00,68,00,2e,00,69,00,63,00,6f,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Directory\Background\shell\openbashhere\command]
+@="cmd.exe /c start /d \"%V\" bash.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\shell\openbashhere]
+@="Open Bash here"
+"Icon"=hex(2):25,00,55,00,53,00,45,00,52,00,50,00,52,00,4f,00,46,00,49,00,4c,\
+  00,45,00,25,00,5c,00,41,00,70,00,70,00,44,00,61,00,74,00,61,00,5c,00,4c,00,\
+  6f,00,63,00,61,00,6c,00,5c,00,6c,00,78,00,73,00,73,00,5c,00,62,00,61,00,73,\
+  00,68,00,2e,00,69,00,63,00,6f,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\DesktopBackground\shell\openbashhere\command]
+@="cmd.exe /c start /d \"%V\" bash.exe"
+
+
